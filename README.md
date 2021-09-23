@@ -9,7 +9,8 @@ In the project directory, you can run:
 ### `yarn start`
 **Xử Lý Các Chức Năng Quản Lý Giỏ Hàng Bằng React JS + Redux + LocalStorage**
 ![image](https://user-images.githubusercontent.com/75024999/134482707-b0c61c41-99c6-411a-bbb8-657fbae16052.png)
-![image](https://user-images.githubusercontent.com/75024999/134482785-e87abaf4-5f9e-47c6-a42c-e1b38ffd1823.png)
+![image](https://user-images.githubusercontent.com/75024999/134483832-d3836331-258a-470d-a4f7-d2abf138582d.png)
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:9999) to view it in the browser.

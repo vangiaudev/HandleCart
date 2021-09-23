@@ -1,0 +1,5 @@
+export const MSG_ADD_TO_CART_SUCCESS = 'Mua Hàng Thành Công !'
+export const MSG_UPDATE_CART_SUCCESS = 'Cập Nhật Giỏ Hàng Thành Công !'
+export const MSG_DELETE_PRODUCT_IN_CART_SUCCESS = 'Xóa Sản Phẩm Thành Công !'
+export const MSG_CART_EMPTY = 'Giỏ Hàng Bạn Đang Trống !'
+export const MSG_WELCOM = 'CHÀO MỪNG BẠN ĐẾN VỚI IT SHOP !'

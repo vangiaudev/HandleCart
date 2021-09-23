@@ -7,7 +7,7 @@ const cart = (state = initialState, action) =>{
     var index = -1
     switch (action.type) {
         case types.ADD_TO_CART:
-            index = findProductInCart(state, product)
+            index = findProductInCart(state, product.id)
             if(index !== -1){
                 state[index].quantity += quantity
             }
